@@ -1,0 +1,15 @@
+C:\Users\vikra\source\repos\ChessBot\bin\Debug\net6.0\ChessBot.exe
+C:\Users\vikra\source\repos\ChessBot\bin\Debug\net6.0\ChessBot.deps.json
+C:\Users\vikra\source\repos\ChessBot\bin\Debug\net6.0\ChessBot.runtimeconfig.json
+C:\Users\vikra\source\repos\ChessBot\bin\Debug\net6.0\ChessBot.dll
+C:\Users\vikra\source\repos\ChessBot\bin\Debug\net6.0\ChessBot.pdb
+C:\Users\vikra\source\repos\ChessBot\obj\Debug\net6.0\ChessBot.csproj.AssemblyReference.cache
+C:\Users\vikra\source\repos\ChessBot\obj\Debug\net6.0\ChessBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikra\source\repos\ChessBot\obj\Debug\net6.0\ChessBot.AssemblyInfoInputs.cache
+C:\Users\vikra\source\repos\ChessBot\obj\Debug\net6.0\ChessBot.AssemblyInfo.cs
+C:\Users\vikra\source\repos\ChessBot\obj\Debug\net6.0\ChessBot.csproj.CoreCompileInputs.cache
+C:\Users\vikra\source\repos\ChessBot\obj\Debug\net6.0\ChessBot.dll
+C:\Users\vikra\source\repos\ChessBot\obj\Debug\net6.0\refint\ChessBot.dll
+C:\Users\vikra\source\repos\ChessBot\obj\Debug\net6.0\ChessBot.pdb
+C:\Users\vikra\source\repos\ChessBot\obj\Debug\net6.0\ChessBot.genruntimeconfig.cache
+C:\Users\vikra\source\repos\ChessBot\obj\Debug\net6.0\ref\ChessBot.dll
