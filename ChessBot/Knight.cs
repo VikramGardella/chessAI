@@ -18,7 +18,21 @@ namespace ChessBot
 
         public override bool validMove(int rTar, int cTar)
         {
-            return true;
+            if (rTar <= 7 && cTar <= 7 && rTar >= 0 && cTar >= 0)
+            {
+                if ((Math.Abs(rTar - rPos) == 1 && Math.Abs(cTar - cPos) == 2) || (Math.Abs(rTar - rPos) == 2 && Math.Abs(cTar - cPos) == 1))
+                {
+                    return true;
+                }
+                else
+                {
+                    return false;
+                }
+            }
+            else
+            {
+                return false;
+            }
         }
 
         public override void makeMove(int rTar, int cTar)
